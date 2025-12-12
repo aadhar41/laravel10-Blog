@@ -477,7 +477,7 @@ Thank you for checking out this Laravel 10 practice repository! Whether you're l
 **Star this repository** if you found it useful, and feel free to contribute by submitting pull requests or reporting issues!
 
 Happy coding! 🚀
-```
+
 
 This README.md is designed to be comprehensive, engaging, and developer-friendly. It includes:
 
