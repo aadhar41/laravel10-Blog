@@ -470,6 +470,38 @@ To get the most out of this project, consider exploring these resources:
    }
    ```
 
+### **Register Page**
+
+![Register Page](https://raw.githubusercontent.com/aadhar41/laravel10/dev/public/screens/register-page.png)
+
+### **Login Page**
+
+![Login Page](https://raw.githubusercontent.com/aadhar41/laravel10/dev/public/screens/login-page.png)
+
+### **User Profile**
+
+![User Profile](https://raw.githubusercontent.com/aadhar41/laravel10/dev/public/screens/user-profile.png)
+
+### **User Profile Edit**
+
+![User Profile Edit](https://raw.githubusercontent.com/aadhar41/laravel10/dev/public/screens/user-profile-edit.png)
+
+### **Posts**
+
+![Posts](https://raw.githubusercontent.com/aadhar41/laravel10/dev/public/screens/posts.jpg)
+
+### **Post Create**
+
+![Post Create](https://raw.githubusercontent.com/aadhar41/laravel10/dev/public/screens/posts-create.png)
+
+### **Post Edit**
+
+![Post Edit](https://raw.githubusercontent.com/aadhar41/laravel10/dev/public/screens/post-edit.png)
+
+### **Post View**
+
+![Post View](https://raw.githubusercontent.com/aadhar41/laravel10/dev/public/screens/post-view.png)
+
 ## **🎯 Best Practices Implemented**
 
 1. **Repository Pattern**: For data access abstraction
